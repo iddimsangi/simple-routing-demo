@@ -37,7 +37,7 @@ function App() {
           <Route path="/users">
             <Users />
           </Route>
-          <Route path="/">
+          <Route  path="/">
             <Home />
           </Route>
         </Switch>
